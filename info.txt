@@ -1,0 +1,1 @@
+This is the demo repository for Homework 1 of Stats 21. The two text files in this repository are info.txt (this document) and bee_movie_script.txt. The other two files are a .html file of a Clickhole page, and a .png picture of my cat and dog.
